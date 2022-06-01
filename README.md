@@ -52,7 +52,10 @@ System should have node.js installed in it.
    ```sh
    check input input.csv axios@0.23.0 
    ```
-Running this command will given back table as output which shows name of the github repo, link of the github repo and version of the dependency which we check and whether the version is satisfied or not.
+Running this command will given back table as output which shows name of the github repo, link of the github repo and version of the dependency which we check and whether the version is satisfied or not.Output is shown below.
+
+![alt text](https://github.com/dyte-submissions/dyte-vit-2022-DinalAloy/blob/main/screenshots/Screenshot%202022-06-01%20at%205.00.38%20PM.png?raw=true)
+
 
 
 
